@@ -1,4 +1,4 @@
-package study.jpastudy04.controller;
+package study.jpastudy04;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
